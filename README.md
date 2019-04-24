@@ -16,7 +16,7 @@
 7. Mediator
 >	Define an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently.
 8. Visitor
-	Represents an operation to be performed on the elements of an object structure / Visitor lets you define a new operation without changing the classes of the elements on which it operates.
+>	Represents an operation to be performed on the elements of an object structure / Visitor lets you define a new operation without changing the classes of the elements on which it operates.
 
 	
 ## Creational Design Patterns
@@ -53,6 +53,6 @@
 >	capture the internal state of an object without violating encapsulation and thus providing a mean for restoring the object into initial state when needed.
 	
 ## Other Patterns
-1. Java Reflection
+1. Java Reflection API
 2. Facade Design Pattern
 3. State Design Pattern
