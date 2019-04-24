@@ -1,4 +1,4 @@
-package observer_pattern;
+package observer;
 
 public class StockObserver implements Observer {
 

@@ -1,4 +1,4 @@
-package factory_pattern;
+package factory;
 import java.util.Scanner;
 
 public class EnemyShipTesting {

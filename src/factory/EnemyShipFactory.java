@@ -1,4 +1,4 @@
-package factory_pattern;
+package factory;
 
 public class EnemyShipFactory {
 	public EnemyShip makeEnemyShip(String newShipType) {

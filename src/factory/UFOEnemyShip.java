@@ -1,4 +1,4 @@
-package factory_pattern;
+package factory;
 
 public class UFOEnemyShip extends EnemyShip{
 	public UFOEnemyShip() {
