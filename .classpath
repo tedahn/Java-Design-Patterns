@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="abstract_factory"/>
-	<classpathentry kind="src" path="adapter"/>
-	<classpathentry kind="src" path="builder"/>
-	<classpathentry kind="src" path="command"/>
-	<classpathentry kind="src" path="decorator"/>
-	<classpathentry kind="src" path="factory"/>
-	<classpathentry kind="src" path="observer"/>
-	<classpathentry kind="src" path="prototype"/>
-	<classpathentry kind="src" path="reflection_api"/>
-	<classpathentry kind="src" path="singleton"/>
-	<classpathentry kind="src" path="strategy"/>
+	<classpathentry kind="src" path="AbstractFactory"/>
+	<classpathentry kind="src" path="Adapter"/>
+	<classpathentry kind="src" path="Builder"/>
+	<classpathentry kind="src" path="Command"/>
+	<classpathentry kind="src" path="Decorator"/>
+	<classpathentry kind="src" path="FactoryMethod"/>
+	<classpathentry kind="src" path="Observer"/>
+	<classpathentry kind="src" path="Prototype"/>
+	<classpathentry kind="src" path="ReflectionApi"/>
+	<classpathentry kind="src" path="Singleton"/>
+	<classpathentry kind="src" path="Strategy"/>
+	<classpathentry kind="src" path="Facade"/>
+	<classpathentry kind="src" path="Bridge"/>
+	<classpathentry kind="src" path="TemplateMethod"/>
+	<classpathentry kind="src" path="Iterator"/>
+	<classpathentry kind="src" path="Composite"/>
+	<classpathentry kind="src" path="Flyweight"/>
+	<classpathentry kind="src" path="State"/>
+	<classpathentry kind="src" path="Proxy"/>
+	<classpathentry kind="src" path="ChainOfResponsibility"/>
+	<classpathentry kind="src" path="Mediator"/>
+	<classpathentry kind="src" path="Memento"/>
+	<classpathentry kind="src" path="Visitor"/>
+	<classpathentry kind="src" path="Interpreter"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
