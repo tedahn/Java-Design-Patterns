@@ -197,7 +197,7 @@ Proxy means ‘in place of’, representing’ or ‘in place of’ or ‘on beh
 
 A real world example can be a cheque or credit card is a proxy for what is in our bank account. It can be used in place of cash, and provides a means of accessing that cash when required. And that’s exactly what the Proxy pattern does – “Controls and manage access to the object they are protecting“.
 
-###7. Memento
+### 7. Memento
 >	capture the internal state of an object without violating encapsulation and thus providing a mean for restoring the object into initial state when needed.
 
 Memento pattern is used to restore state of an object to a previous state. As your application is progressing, you may want to save checkpoints in your application and restore back to those checkpoints later.
